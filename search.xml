@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Postdoc form]]></title>
+      <url>/2017/08/07/form-to-dawnsong-jobs-gmail-com-1/</url>
+      <content type="html"><![CDATA[<p>Page-1</p>
+<ol>
+<li>E-mail: cr7or9@163.com</li>
+<li>Name; Jinzhuo Wang</li>
+<li>Current position and affilation: 5th-year Ph.D candidate at the department of EECS, Peking University, China</li>
+<li>Seeking position: Postdoc</li>
+<li>Years of research/working experince in computer security: None</li>
+<li>Years of research/working experince in machine learning: 4 years</li>
+</ol>
+<a id="more"></a>
+<p>Page-2:</p>
+<ol>
+<li>Years of research/working experince in deep learning: 4 Years</li>
+<li>Years of experince in programming and in which programming languages: 8 years; C/C++, Python, Matlab</li>
+<li>Link to your webpage: www.wangjinzhuo.com</li>
+<li>Link to your CV: www.wangjinzhuo.com/cv.pdf</li>
+<li>Link to your github repo: github.com/wangjinzhuo</li>
+<li>Provide the name, postion, and contact info of three of your recommenders (one per line):<br>1) Wen Gao, wgao@pku.edu.cn, Professor at EECS, Peking University;<br>2) Wenmin Wang, wangwm@ece.pku.edu.cn, Professor at ECE, Peking University;<br>3) Huifang Sun, hsun@merl.com, Research/Technical Staff at MERL;</li>
+<li>Describe your research interests and why would you like to apply for a position: My research interests focus on artificial intelligence, deep learning, computer vision. I believe the Postdoc position is an excellent choice for enhancing my research career.</li>
+</ol>
+<p>Page-3:</p>
+<ol>
+<li>Mention three of your most favorite papers/write-ups and why:<br>1) The pyramid match kernel: Discriminative classification with set of features. K.Grauman and T.Darrell. In ICCV 2005. A simple but elegant algorithm motivated my first paper.<br>2) Imagenet classification with deep convolutional neural networks. A.Krizhevsky et.al. In NIPS 2012. This paper shows a good example for deep learning researchers: It can never be too specific in implementation details.<br>3) Master the game of Go with deep neural networks and tree search. D.Silver et.al. Nature 2016. As a Go player who learnt Go for more than ten years, it shocks me a lot. On the other hand, this paper shows the strength of combination and inspires me to explore the combination potential of deep learning with other techniques in AI and machine learning.</li>
+<li>Mention three of my papers that you find most relevant to your interests and why:<br>1) Making neural programming architectures generalize via recursion. In ICLR 2017.<br>2) Delving into transferable adversarial examples and black-box attacks. In ICLR 2017.<br>3) Adversarial examples for generative models. <a href="https://arxiv.org/pdf/1702.06832.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1702.06832.pdf</a> </li>
+<li>Describe your system building experince. What is the biggest project that you have done? How long did you work on it? How many lines of code did you write for it? Provide any additional details for the project to illustrate your system building experince:<br>It is the DANN work that was published in NIPS 2016. I worked on it for about 2 months. Codes are around 600 lines. That was the first time I coded with torch7. On the other hand, I have to consider the architecture of the proposed deep neural networks. Considering the large video datasets, it was a challenging system building experience.</li>
+<li>Provide a bullet list of your notable experince/projects that are of relevance:<br>1) An action recognition framework that is built around a novel DANN architecture, which levearges the advantages of both CNN and RNN. This paper is published in NIPS 2016.<br>2) I wrote a computer Go system that utilizes deep neural networks and domain knowledge, which is published in AAAI 2017.<br>3) Current on-going project is a universal differentiable layer, which is responsible for collaborative learning with knowledge sharing. Unlike GAN, this layer can be deployed among multiple agents, and enjoy a non-zero-sum game with a win-win process.<br>4) Other projects can be found in my homepage.</li>
+<li>How would you like to describe your work ethics and philosophy: Teamwork; Motivation; Focus. </li>
+<li>Mention three of your favorite books and why:<br>1) The romance of three kingdoms. An amazing long novel with magificant description of war, marvelous strategy of intrigue and a variety of characters, making many so-called “epic fictions” cast into the shade.<br>2) Malice: A Mystery. Actually I am addicted to almost all the fictions of Keigo Hlgashino, the writer of “Malice: A Mystery”. This book makes me learn more about the real human nature.<br>3) The legendary swordman. Same as above, I love all the 14 books written by Jinyong, a real swordman. I am fascinated by the world of martial arts. </li>
+<li>Anything else you would like to mention about yourself:</li>
+</ol>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Postdoc Form, UCB, Prof. Song </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Collaborative learing with knowledge sharing]]></title>
+      <url>/2017/06/07/collaborative-learing-with-knowledge-sharing-1/</url>
+      <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
+<a id="more"></a>
+<p>In particular, we introduce a new learnable module called collaborative learning layer (CLL) that is responsible to mix the learnt knowledge of involved models and extract relevant knowledge to achieve assistance. The core structure of our proposed module is built around a differentiable mutual knowledge base (MKB), which preserves and updates the mutual knowledge.  The MKB recieves encoded knowledge of individual models and mixed them into a universal representation. We show how to train CLL along with involved models and the use of CLL can improve the performance of involved models.</p>
+<p>The CLL is very flexible and can be deployed with many settings. First, it can be inserted among multiple architectures, which means it is able to help model assistance. Second, multiple CLLs can be used to enhance the performance of Collaborative learning. Third, CLL can be applied with tasks that are the same, relevant, and even non-relevant.kkkk</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Deep learning; On-going project </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Properties of neural networks]]></title>
+      <url>/2017/04/07/properties-of-neural-networks/</url>
+      <content type="html"><![CDATA[<p>Intriguing properties of neural networks – <a href="https://arxiv.org/pdf/1312.6199.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1312.6199.pdf</a></p>
+<ol>
+<li>It suggests that it is the space, rather than the individual units, that contains the semantic information in the high layers of neural networks.</li>
+<li>It suggests that the learnt input-output mappings by deep neural networks are fairly discontinuous. That means it is easy to fool a well trained neural networks.</li>
+</ol>
+<a id="more"></a>
+<p>See also in <a href="https://arxiv.org/pdf/1412.6572.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1412.6572.pdf</a> where the authors show it is easy to generate adversarial examples which are close to the original ones but are misclassified by neural networks. </p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Deep learning </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Conference attendance report of AAAI-2017]]></title>
+      <url>/2017/02/19/aaai-2017/</url>
+      <content type="html"><![CDATA[<p>AAAI 2017 took place in San Francisco and lasted for 5 days.</p>
+<p>First time attending to AAAI, a coverall AI conference which accepts papers of every aspect of AI research.</p>
+<a id="more"></a>
+<p>A great talk given by Prof. Grauman about learning from unlabeled videos <a href="http://www.cs.utexas.edu/%7Egrauman/slides/grauman-AAAI2017.pdf" target="_blank" rel="external">http://www.cs.utexas.edu/%7Egrauman/slides/grauman-AAAI2017.pdf</a>, which I think is close to recent popular attention model.<br><img src="/images/aaai.jpg" alt=""></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Conference attendance </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Conference attendance report of NIPS 2016]]></title>
+      <url>/2016/12/15/nips-2016/</url>
+      <content type="html"><![CDATA[<p>Glad to attend NIPS 2016 in Barcelona, a beautiful costal city in Spain. It is lucky for a football fan to join a party in Nou Camp.</p>
+<p>There are many famous researchers including LeCun, Schmidhuber and other yound research scientists in DeepMind and OpenAI. They give talks, introduce posts, communicate and share ideas. I like such atmosphere.</p>
+<a id="more"></a>
+<p>An impressive work is “Learning to learn by gradient descent by gradient descent” by M.Andrychowicz et.al. in DeepMind. I read its previous version in arxiv and asked the authors at poster room in the first evening. You can not imagine how popular the DeepMind’s paper was. I waited for almost half of an hour to ask the author several questions. </p>
+<p><img src="/images/learning.png" alt=""></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Conference attendance </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Smartcity competition]]></title>
+      <url>/2015/07/21/anomaly-detection-match/</url>
+      <content type="html"><![CDATA[<p>The finals of Smartcity competition for chinese graduates raised the curtain in Wuhan University, July.</p>
+<p>Our team participated in the task of video anomaly detection. Our algorithm is based on an unsupervised analysis of trajectory features of normal videos, as the number of anomaly videos available is rather small. We first build a mix model composed of normal bases, and calculate the distance of test videos to the learnt bases to make judgement.</p>
+<a id="more"></a>
+<p>Our final performance ranked at the second position. It is a not bad result.</p>
+<p><img src="/images/wuhan.jpg" alt=""></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Video anomaly detection; Competition </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
