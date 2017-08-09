@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2017-08-09T04:51:19.045Z</updated>
+  <updated>2017-08-09T05:07:27.165Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.wangjinzhuo.com/2017/08/07/postdoc-form/"/>
     <id>http://www.wangjinzhuo.com/2017/08/07/postdoc-form/</id>
     <published>2017-08-07T08:12:01.000Z</published>
-    <updated>2017-08-09T04:51:19.045Z</updated>
+    <updated>2017-08-09T05:07:27.165Z</updated>
     
     <content type="html"><![CDATA[<p>Page-1</p>
 <ol>
@@ -29,7 +29,7 @@
 <li>Current position and affilation: 5th-year Ph.D candidate at the department of EECS, Peking University, China</li>
 <li>Seeking position: Postdoc</li>
 <li>Years of research/working experince in computer security: None</li>
-<li>Years of research/working experince in machine learning: 4 years</li>
+<li>Years of research/working experince in machine learning: 5 years</li>
 </ol>
 <a id="more"></a>
 <p>Page-2:</p>
@@ -39,8 +39,8 @@
 <li>Link to your webpage: www.wangjinzhuo.com</li>
 <li>Link to your CV: www.wangjinzhuo.com/pdf/cv.pdf</li>
 <li>Link to your github repo: github.com/wangjinzhuo</li>
-<li>Provide the name, postion, and contact info of three of your recommenders (one per line):<br>1) Wen Gao, wgao@pku.edu.cn, Professor at EECS, Peking University;<br>2) Wenmin Wang, wangwm@ece.pku.edu.cn, Professor at ECE, Peking University;<br>3) Huifang Sun, hsun@merl.com, Research/Technical Staff at MERL;</li>
-<li>Describe your research interests and why would you like to apply for a position: My research interests focus on artificial intelligence, deep learning, computer vision. I believe the Postdoc position is an excellent choice for enhancing my research career.</li>
+<li>Provide the name, postion, and contact info of three of your recommenders (one per line):<br>1) Wen Gao,  Professor at EECS, Peking University, wgao@pku.edu.cn;<br>2) Wenmin Wang, Professor at ECE, Peking University, wangwm@ece.pku.edu.cn;<br>3) Huifang Sun, Research/Technical Staff at MERL, hsun@merl.com.</li>
+<li>Describe your research interests and why would you like to apply for a position:<br>My research interests focus on deep learning, artificial intelligence and computer vision. I believe the Postdoc position is an excellent choice for enhancing my research career. More importantly, the Prof.Song’s current deep learning project attracts me a lot, especially her recent published papers on ICLR 2017. I believe my background on deep learning and artificial intelligence are appropriate for this position.</li>
 </ol>
 <p>Page-3:</p>
 <ol>
@@ -63,7 +63,7 @@
 &lt;li&gt;Current position and affilation: 5th-year Ph.D candidate at the department of EECS, Peking University, China&lt;/li&gt;
 &lt;li&gt;Seeking position: Postdoc&lt;/li&gt;
 &lt;li&gt;Years of research/working experince in computer security: None&lt;/li&gt;
-&lt;li&gt;Years of research/working experince in machine learning: 4 years&lt;/li&gt;
+&lt;li&gt;Years of research/working experince in machine learning: 5 years&lt;/li&gt;
 &lt;/ol&gt;
     
     </summary>
