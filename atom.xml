@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2017-08-08T08:20:16.893Z</updated>
+  <updated>2017-08-09T04:51:19.045Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Postdoc form</title>
-    <link href="http://www.wangjinzhuo.com/2017/08/07/form-to-dawnsong-jobs-gmail-com/"/>
-    <id>http://www.wangjinzhuo.com/2017/08/07/form-to-dawnsong-jobs-gmail-com/</id>
+    <link href="http://www.wangjinzhuo.com/2017/08/07/postdoc-form/"/>
+    <id>http://www.wangjinzhuo.com/2017/08/07/postdoc-form/</id>
     <published>2017-08-07T08:12:01.000Z</published>
-    <updated>2017-08-08T08:20:16.893Z</updated>
+    <updated>2017-08-09T04:51:19.045Z</updated>
     
     <content type="html"><![CDATA[<p>Page-1</p>
 <ol>
@@ -69,16 +69,20 @@
     </summary>
     
     
-      <category term="Postdoc Form, UCB, Prof. Song" scheme="http://www.wangjinzhuo.com/tags/Postdoc-Form-UCB-Prof-Song/"/>
+      <category term="Postdoc form" scheme="http://www.wangjinzhuo.com/tags/Postdoc-form/"/>
+    
+      <category term="UCB" scheme="http://www.wangjinzhuo.com/tags/UCB/"/>
+    
+      <category term="Prof. Song" scheme="http://www.wangjinzhuo.com/tags/Prof-Song/"/>
     
   </entry>
   
   <entry>
     <title>Collaborative learing with knowledge sharing</title>
-    <link href="http://www.wangjinzhuo.com/2017/06/07/collaborative-learing-with-knowledge-sharing-1/"/>
-    <id>http://www.wangjinzhuo.com/2017/06/07/collaborative-learing-with-knowledge-sharing-1/</id>
+    <link href="http://www.wangjinzhuo.com/2017/06/07/cll-mkb/"/>
+    <id>http://www.wangjinzhuo.com/2017/06/07/cll-mkb/</id>
     <published>2017-06-07T07:09:17.000Z</published>
-    <updated>2017-08-08T05:49:51.026Z</updated>
+    <updated>2017-08-09T04:49:17.904Z</updated>
     
     <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
 <a id="more"></a>
@@ -93,7 +97,9 @@
     </summary>
     
     
-      <category term="Deep learning; On-going project" scheme="http://www.wangjinzhuo.com/tags/Deep-learning-On-going-project/"/>
+      <category term="Deep learning" scheme="http://www.wangjinzhuo.com/tags/Deep-learning/"/>
+    
+      <category term="On-going project" scheme="http://www.wangjinzhuo.com/tags/On-going-project/"/>
     
   </entry>
   
@@ -102,7 +108,7 @@
     <link href="http://www.wangjinzhuo.com/2017/04/07/properties-of-neural-networks/"/>
     <id>http://www.wangjinzhuo.com/2017/04/07/properties-of-neural-networks/</id>
     <published>2017-04-07T06:46:25.000Z</published>
-    <updated>2017-08-08T05:50:09.566Z</updated>
+    <updated>2017-08-09T04:43:00.107Z</updated>
     
     <content type="html"><![CDATA[<p>Intriguing properties of neural networks – <a href="https://arxiv.org/pdf/1312.6199.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1312.6199.pdf</a></p>
 <ol>
@@ -133,7 +139,7 @@
     <link href="http://www.wangjinzhuo.com/2017/02/19/aaai-2017/"/>
     <id>http://www.wangjinzhuo.com/2017/02/19/aaai-2017/</id>
     <published>2017-02-19T13:08:00.000Z</published>
-    <updated>2017-08-08T06:54:39.554Z</updated>
+    <updated>2017-08-09T04:42:22.651Z</updated>
     
     <content type="html"><![CDATA[<p>AAAI 2017 took place in San Francisco and lasted for 5 days.</p>
 <p>First time attending to AAAI, a coverall AI conference which accepts papers of every aspect of AI research.</p>
@@ -158,7 +164,7 @@
     <link href="http://www.wangjinzhuo.com/2016/12/15/nips-2016/"/>
     <id>http://www.wangjinzhuo.com/2016/12/15/nips-2016/</id>
     <published>2016-12-15T02:44:20.000Z</published>
-    <updated>2017-08-08T05:50:05.566Z</updated>
+    <updated>2017-08-09T04:42:43.991Z</updated>
     
     <content type="html"><![CDATA[<p>Glad to attend NIPS 2016 in Barcelona, a beautiful costal city in Spain. It is lucky for a football fan to join a party in Nou Camp.</p>
 <p>There are many famous researchers including LeCun, Schmidhuber and other yound research scientists in DeepMind and OpenAI. They give talks, introduce posts, communicate and share ideas. I like such atmosphere.</p>
@@ -184,7 +190,7 @@
     <link href="http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/"/>
     <id>http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/</id>
     <published>2015-07-21T05:44:41.000Z</published>
-    <updated>2017-08-08T06:03:01.526Z</updated>
+    <updated>2017-08-09T04:42:36.539Z</updated>
     
     <content type="html"><![CDATA[<p>The finals of Smartcity competition for chinese graduates raised the curtain in Wuhan University, July.</p>
 <p>Our team participated in the task of video anomaly detection. Our algorithm is based on an unsupervised analysis of trajectory features of normal videos, as the number of anomaly videos available is rather small. We first build a mix model composed of normal bases, and calculate the distance of test videos to the learnt bases to make judgement.</p>
@@ -201,7 +207,9 @@
     </summary>
     
     
-      <category term="Video anomaly detection; Competition" scheme="http://www.wangjinzhuo.com/tags/Video-anomaly-detection-Competition/"/>
+      <category term="Video anomaly detection" scheme="http://www.wangjinzhuo.com/tags/Video-anomaly-detection/"/>
+    
+      <category term="competition" scheme="http://www.wangjinzhuo.com/tags/competition/"/>
     
   </entry>
   

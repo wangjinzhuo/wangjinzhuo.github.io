@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[Postdoc form]]></title>
-      <url>/2017/08/07/form-to-dawnsong-jobs-gmail-com/</url>
+      <url>/2017/08/07/postdoc-form/</url>
       <content type="html"><![CDATA[<p>Page-1</p>
 <ol>
 <li>E-mail: cr7or9@163.com</li>
@@ -40,7 +40,11 @@
         
         <tags>
             
-            <tag> Postdoc Form, UCB, Prof. Song </tag>
+            <tag> Postdoc form </tag>
+            
+            <tag> UCB </tag>
+            
+            <tag> Prof. Song </tag>
             
         </tags>
         
@@ -48,7 +52,7 @@
     
     <entry>
       <title><![CDATA[Collaborative learing with knowledge sharing]]></title>
-      <url>/2017/06/07/collaborative-learing-with-knowledge-sharing-1/</url>
+      <url>/2017/06/07/cll-mkb/</url>
       <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
 <a id="more"></a>
 <p>In particular, we introduce a new learnable module called collaborative learning layer (CLL) that is responsible to mix the learnt knowledge of involved models and extract relevant knowledge to achieve assistance. The core structure of our proposed module is built around a differentiable mutual knowledge base (MKB), which preserves and updates the mutual knowledge.  The MKB recieves encoded knowledge of individual models and mixed them into a universal representation. We show how to train CLL along with involved models and the use of CLL can improve the performance of involved models.</p>
@@ -58,7 +62,9 @@
         
         <tags>
             
-            <tag> Deep learning; On-going project </tag>
+            <tag> Deep learning </tag>
+            
+            <tag> On-going project </tag>
             
         </tags>
         
@@ -135,7 +141,9 @@
         
         <tags>
             
-            <tag> Video anomaly detection; Competition </tag>
+            <tag> Video anomaly detection </tag>
+            
+            <tag> competition </tag>
             
         </tags>
         
