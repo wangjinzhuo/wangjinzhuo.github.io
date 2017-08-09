@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2017-08-09T06:11:43.350Z</updated>
+  <updated>2017-08-09T07:06:53.361Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.wangjinzhuo.com/2017/08/07/postdoc-form/"/>
     <id>http://www.wangjinzhuo.com/2017/08/07/postdoc-form/</id>
     <published>2017-08-07T08:12:01.000Z</published>
-    <updated>2017-08-09T06:11:43.350Z</updated>
+    <updated>2017-08-09T07:06:53.361Z</updated>
     
     <content type="html"><![CDATA[<p>Page-1</p>
 <ol>
@@ -44,7 +44,7 @@
 </ol>
 <p>Page-3:</p>
 <ol>
-<li>Mention three of your most favorite papers/write-ups and why:<br>1) The pyramid match kernel: discriminative classification with set of features. K.Grauman and T.Darrell. In ICCV 2005.<br>Reason: A simple but elegant algorithm motivated my first paper.<br>2) Imagenet classification with deep convolutional neural networks. A.Krizhevsky et.al. In NIPS 2012.<br>Reason: This paper shows a good example for deep learning researchers: It can never be too specific in implementation details. Also, the proposed ReLU activation function gradually shows its importance to train a deep neural network and motivates many followers such pReLU, eLU, peLU.<br>3) Master the game of Go with deep neural networks and tree search. D.Silver et.al. Nature 2016.<br>Reason: As a Go player who have learnt Go for more than ten years, it shocks me a lot. On the other hand, this paper shows the combination strength of excellent models and inspires me to explore the combination potential of deep learning with other techniques in AI and machine learning.</li>
+<li>Mention three of your most favorite papers/write-ups and why:<br>1) The pyramid match kernel: discriminative classification with set of features. K.Grauman and T.Darrell. In ICCV 2005.<br>Reason: A simple but elegant algorithm motivated my first paper.<br>2) Imagenet classification with deep convolutional neural networks. A.Krizhevsky et.al. In NIPS 2012.<br>Reason: This paper shows a good example for deep learning researchers: It can never be too specific in implementation details. Also, the proposed ReLU activation function gradually shows its importance to train a deep neural network and motivates many followers such pReLU, eLU, peLU.<br>3) Master the game of Go with deep neural networks and tree search. D.Silver et.al. Nature 2016.<br>Reason: As a Go player who have learnt Go for more than ten years, I was shocked by its results. On the other hand, this paper shows the combination strength of excellent models and inspires me to explore the combination potential of deep learning with other techniques in AI and machine learning.</li>
 <li>Mention three of my papers that you find most relevant to your interests and why:<br>1) Making neural programming architectures generalize via recursion. In ICLR 2017.<br>Reason: Applying classical algorithm to neural networks is always a good choice for deep learning researchers.<br>2) Delving into transferable adversarial examples and black-box attacks. In ICLR 2017.<br>Reason: Although GAN has been hot for a few years, this paper still gives me new and important insight about adversarial examples.<br>3) Adversarial examples for generative models. <a href="https://arxiv.org/pdf/1702.06832.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1702.06832.pdf</a><br>Reason: A good paper that provides detailed instructions to generate adversarial examples, which supports the possibilities to fool a well-trained deep neural network.</li>
 <li>Describe your system building experince. What is the biggest project that you have done? How long did you work on it? How many lines of code did you write for it? Provide any additional details for the project to illustrate your system building experince:<br>It is the DANN work that was published in NIPS 2016. I worked on it for about 2 months. Codes are around 600 lines. That was the first time I developed algorithms with torch7. Considering the large video datasets, it was a challenging system building experience to perform model investigation for a deep neural architecture.</li>
 <li>Provide a bullet list of your notable experince/projects that are of relevance:<br>1) An action recognition framework that is built around a novel DANN architecture, which levearges the advantages of both CNN and RNN. This paper is published in NIPS 2016.<br>2) I wrote a computer Go system that utilizes deep neural networks and domain knowledge, which is published in AAAI 2017.<br>3) Two transformation-based prediction works are accepted by ACM Multimedia 2017. One is to predict future frames from a single frame, and the other is from a short video clip.<br>4) My current project is a universal differentiable layer, which is responsible for collaborative learning with knowledge sharing. Unlike GAN, this layer can be deployed among multiple models, and enjoys a non-zero-sum game with a win-win process.</li>
