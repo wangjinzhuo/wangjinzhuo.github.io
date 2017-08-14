@@ -29,7 +29,7 @@
 <meta property="og:image" content="http://www.wangjinzhuo.com/images/lstm-10.png">
 <meta property="og:image" content="http://www.wangjinzhuo.com/images/lstm-11.png">
 <meta property="og:image" content="http://www.wangjinzhuo.com/images/lstm-12.png">
-<meta property="og:updated_time" content="2017-08-14T08:27:56.753Z">
+<meta property="og:updated_time" content="2017-08-14T09:20:50.083Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Understanding LSTM">
 <meta name="twitter:description" content="Recurrent Neural Networks (RNN)Human don’t start their thinkning from scratch every second. As you read this essay, you understand each word based on your understanding of previous words. You don’t th">
@@ -73,7 +73,7 @@
       </nav>
       <nav id="sub-nav">
         
-        <a id="nav-search-btn" class="nav-icon" title="Zoeken"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://www.wangjinzhuo.com"></form>
@@ -109,7 +109,8 @@
 <p>Traditional neural networks can’t do this, and it seems like a major shortcoming. For example, imagine you want to classify what kind of event is happening at every point in a movie. It’s unclear how a traditional neural network could use its reasoning about previous events in the film to inform later ones.</p>
 <a id="more"></a>
 <p>Recurrent neural networks address this issue. They are networks with loops in them, allowing information to persist.</p>
-<p><img src="/images/rnn.png" alt=""></p>
+<!-- ![](/images/rnn.png) -->
+<p><img src="/images/rnn.png" height="100" width="200"></p>
 <p>In the above diagram, a chunk of neural network, $A$, looks at some input $x_t$ and outputs a value $h_t$. A loop allows information to be passed from one step of the network to the next.</p>
 <p>These loops make recurrent neural networks seem kind of mysterious. However, if you think a bit more, it turns out that they aren’t all that different than a normal neural network. A recurrent neural network can be thought of as multiple copies of the same network, each passing a message to a successor. Consider what happens if we unroll the loop:</p>
 <p><img src="/images/unrolled-rnn.png" alt=""></p>
@@ -142,7 +143,8 @@
 <p><img src="/images/lstm-5.png" alt=""></p>
 <p>The sigmoid layer outputs numbers between zero and one, describing how much of each component should be let through. A value of zero means “let nothing through,” while a value of one means “let everything through!”</p>
 <p>An LSTM has three of these gates, to protect and control the cell state.</p>
-<h2 id="Step-by-Step-LSTM-Walk-Through"><a href="#Step-by-Step-LSTM-Walk-Through" class="headerlink" title="Step-by-Step LSTM Walk Through"></a>Step-by-Step LSTM Walk Through</h2><p>The first step in our LSTM is to decide what information we’re goint to throw away from the cell state. This decision is made by a sigmoid layer called “forget gate layer”. It looks at $h_{t-1}$ and $x<em>t$, and outputs a number between 0 and 1 for each number in the cell state $\widetilde{C}</em>{t-1}$. A 1 represents “completely keep this” and a 0 represents “completely get rid of this”.</p>
+<h2 id="Step-by-Step-LSTM-Walk-Through"><a href="#Step-by-Step-LSTM-Walk-Through" class="headerlink" title="Step-by-Step LSTM Walk Through"></a>Step-by-Step LSTM Walk Through</h2><p>The first step in our LSTM is to decide what information we’re goint to throw away from the cell state. This decision is made by a sigmoid layer called “forget gate layer”. It looks at $h_{t-1}$ and $x_t$, </p>
+<p>and outputs a number 0 between 1 and for each number in the cell state ${\widetilde{C}}_{t-1}$. A 1 represents “completely keep this” and a 0 represents “completely get rid of this”.</p>
 <p>Let’s go back to our example of a language model trying to predict the next word based on all the previous ones. In such a problem, the cell state might include the gender of the present subject, so that the correct pronouns can be used. When we see a new subject, we want to forget the gender of the old subject.</p>
 <p><img src="/images/lstm-6.png" alt=""></p>
 <p>The next step is to decide what new information we’re going to store in the cell state. This has two parts. First, a sigmoid layer called the “input gate layer” decides which values we’ll update. Next, a tanh layer creates a vector of new candidate values, $\widetilde{C}_t$, that could be added to the state. In the next step, we’ll combine these two to create an update to the state.</p>
@@ -173,7 +175,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://www.wangjinzhuo.com/2015/04/11/lstm/" data-id="cj6bshjpi00024m6xb0wdttb2" class="article-share-link">Delen</a>
+      <a data-url="http://www.wangjinzhuo.com/2015/04/11/lstm/" data-id="cj6bwi2pm0004hh6xgw50i2bh" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Deep-Learning/">Deep Learning</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/LSTM/">LSTM</a></li></ul>
@@ -185,7 +187,7 @@
 <nav id="article-nav">
   
     <a href="/2015/07/21/anomaly-detection-match/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Nieuwer</strong>
+      <strong class="article-nav-caption">Newer</strong>
       <div class="article-nav-title">
         
           Smartcity competition
