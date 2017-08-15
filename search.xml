@@ -9,6 +9,7 @@
 <a id="more"></a>
 <p>In particular, we introduce a new learnable module called collaborative learning layer (CLL) that is responsible to mix the learnt knowledge of involved models and extract relevant knowledge to achieve assistance. The core structure of our proposed module is built around a differentiable mutual knowledge base (MKB), which preserves and updates the mutual knowledge.  The MKB recieves encoded knowledge of individual models and mixed them into a universal representation. We show how to train CLL along with involved models and the use of CLL can improve the performance of involved models.</p>
 <p>The CLL is very flexible and can be deployed with many settings. First, it can be inserted among multiple architectures, which means it is able to help model assistance. Second, multiple CLLs can be used to enhance the performance of Collaborative learning. Third, CLL can be applied with tasks that are the same, relevant, and even non-relevant.</p>
+<p><img src="/images/cll.png"></p>
 ]]></content>
       
         
