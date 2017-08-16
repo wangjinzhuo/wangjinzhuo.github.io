@@ -84,6 +84,25 @@
     </entry>
     
     <entry>
+      <title><![CDATA[tricks_in_dnn]]></title>
+      <url>/2016/08/16/tricks-in-dnn/</url>
+      <content type="html"><![CDATA[<p><a href="lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html">Must know Tips/Tricks in Deep Neural Networks</a></p>
+<p><a href="www.cs.umb.edu/~twang/file/tricks_from_dl.pdf">Tricks from Deep Neural Network</a></p>
+<p><a href="www.kdnuggets.com/2015/12/top-10-deep-learning-tips-tricks.html">Top 10 Deep Learning Tips &amp; Tricks</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Deep learning </tag>
+            
+            <tag> Tricks </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Smartcity competition]]></title>
       <url>/2015/07/21/anomaly-detection-match/</url>
       <content type="html"><![CDATA[<p>The finals of Smartcity competition for chinese graduates raised the curtain in Wuhan University, July.</p>

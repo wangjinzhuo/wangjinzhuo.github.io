@@ -127,6 +127,32 @@
   </entry>
   
   <entry>
+    <title>tricks_in_dnn</title>
+    <link href="http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/"/>
+    <id>http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/</id>
+    <published>2016-08-16T05:55:03.000Z</published>
+    <updated>2017-08-16T06:05:07.166Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html">Must know Tips/Tricks in Deep Neural Networks</a></p>
+<p><a href="www.cs.umb.edu/~twang/file/tricks_from_dl.pdf">Tricks from Deep Neural Network</a></p>
+<p><a href="www.kdnuggets.com/2015/12/top-10-deep-learning-tips-tricks.html">Top 10 Deep Learning Tips &amp; Tricks</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html&quot;&gt;Must know Tips/Tricks in Deep Neural Networks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;www.c
+    
+    </summary>
+    
+    
+      <category term="Deep learning" scheme="http://www.wangjinzhuo.com/tags/Deep-learning/"/>
+    
+      <category term="Tricks" scheme="http://www.wangjinzhuo.com/tags/Tricks/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Smartcity competition</title>
     <link href="http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/"/>
     <id>http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/</id>
@@ -159,7 +185,7 @@
     <link href="http://www.wangjinzhuo.com/2015/04/11/lstm/"/>
     <id>http://www.wangjinzhuo.com/2015/04/11/lstm/</id>
     <published>2015-04-11T13:36:59.000Z</published>
-    <updated>2017-08-14T09:20:50.083Z</updated>
+    <updated>2017-08-16T05:57:57.989Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Recurrent-Neural-Networks-RNN"><a href="#Recurrent-Neural-Networks-RNN" class="headerlink" title="Recurrent Neural Networks (RNN)"></a>Recurrent Neural Networks (RNN)</h2><p>Human don’t start their thinkning from scratch every second. As you read this essay, you understand each word based on your understanding of previous words. You don’t throw everything away and start thinking from scratch again. Your thoughts have persistence.</p>
 <p>Traditional neural networks can’t do this, and it seems like a major shortcoming. For example, imagine you want to classify what kind of event is happening at every point in a movie. It’s unclear how a traditional neural network could use its reasoning about previous events in the film to inform later ones.</p>
