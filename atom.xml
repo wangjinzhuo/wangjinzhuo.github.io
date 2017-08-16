@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2017-08-15T15:49:05.609Z</updated>
+  <updated>2017-08-16T03:22:13.230Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -20,13 +20,15 @@
     <link href="http://www.wangjinzhuo.com/2017/06/07/cll-mkb/"/>
     <id>http://www.wangjinzhuo.com/2017/06/07/cll-mkb/</id>
     <published>2017-06-07T07:09:17.000Z</published>
-    <updated>2017-08-15T15:49:05.609Z</updated>
+    <updated>2017-08-16T03:22:13.230Z</updated>
     
     <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
 <a id="more"></a>
 <p>In particular, we introduce a new learnable module called collaborative learning layer (CLL) that is responsible to mix the learnt knowledge of involved models and extract relevant knowledge to achieve assistance. The core structure of our proposed module is built around a differentiable mutual knowledge base (MKB), which preserves and updates the mutual knowledge.  The MKB recieves encoded knowledge of individual models and mixed them into a universal representation. We show how to train CLL along with involved models and the use of CLL can improve the performance of involved models.</p>
 <p>The CLL is very flexible and can be deployed with many settings. First, it can be inserted among multiple architectures, which means it is able to help model assistance. Second, multiple CLLs can be used to enhance the performance of Collaborative learning. Third, CLL can be applied with tasks that are the same, relevant, and even non-relevant.</p>
 <p><img src="/images/cll.png"></p>
+<p>Things are different in the procedures of training and testing. Once training is done, the only useful part is MKB, as shown in the following figure.</p>
+<p><img src="/images/tr-te.png"></p>
 ]]></content>
     
     <summary type="html">
