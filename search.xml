@@ -3,6 +3,32 @@
   
     
     <entry>
+      <title><![CDATA[collaborative_learning]]></title>
+      <url>/2017/08/18/collaborative-learning/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Model assistance in deep learning]]></title>
+      <url>/2017/08/18/multiple-models/</url>
+      <content type="html"><![CDATA[<p>In the era of deep neural networks being constantly designed, it is important to enable them assist each other.</p>
+<p>For example, AlexNet is successful in image classification. GoogleNet is the same. Can they help each other to obtain a further improvement?</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Deep learning </tag>
+            
+            <tag> Model assistance </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Collaborative learing with knowledge sharing]]></title>
       <url>/2017/06/07/cll-mkb/</url>
       <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
