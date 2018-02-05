@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2018-02-05T11:59:43.843Z</updated>
+  <updated>2018-02-05T12:02:11.945Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -20,11 +20,12 @@
     <link href="http://www.wangjinzhuo.com/2017/08/18/multiple-models/"/>
     <id>http://www.wangjinzhuo.com/2017/08/18/multiple-models/</id>
     <published>2017-08-18T09:14:40.000Z</published>
-    <updated>2018-02-05T11:59:43.843Z</updated>
+    <updated>2018-02-05T12:02:11.945Z</updated>
     
     <content type="html"><![CDATA[<p>We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning and optimization.</p>
 <p>Althougth diverse deep neural networks have been developed, how to efficiently leverage full potential of these models and make use of their collaboration remain challenging and unsolved issues.</p>
 <p>We have submitted a paper to IJCAI-2018 named - Model Assistance with Collaborative Learning - to achieve model assistance in a win-win process.</p>
+<a id="more"></a>
 <p>The key idea behind collaborative learning is to share mutual knowledge from the involved models in their learning processes to assist each other as additional supervision. We achieve this process with a mutual knowledge base (MKB) which includes an encoder-decoder structure, a metric learning module and a verification part. The encoder transfers arbitrary intermediate feature maps of the involved models to unified embeddings in mutual space, which are prepared to perform additional supervision with metric leanring and verification, as well as sent back to the original networks to keep end-to-end trainable. </p>
 <p>collaborative learning can be applied to any deep neural networks and easily extended to multiple models. Compared with teacher-student framework, our method enjoys bi-directional assistance and needs no requirements of models such as pre-training and ability difference. </p>
 <p>Experimental results on image classification tasks demonstrate our method can efficiently improve the learning ability of all the involved models, with superior performance comapred with strong baselines and relevant approaches.</p>
@@ -32,7 +33,9 @@
     
     <summary type="html">
     
-      &lt;p&gt;We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of sin
+      &lt;p&gt;We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning and optimization.&lt;/p&gt;
+&lt;p&gt;Althougth diverse deep neural networks have been developed, how to efficiently leverage full potential of these models and make use of their collaboration remain challenging and unsolved issues.&lt;/p&gt;
+&lt;p&gt;We have submitted a paper to IJCAI-2018 named - Model Assistance with Collaborative Learning - to achieve model assistance in a win-win process.&lt;/p&gt;
     
     </summary>
     
@@ -159,7 +162,7 @@
     <link href="http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/"/>
     <id>http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/</id>
     <published>2016-08-16T05:55:03.000Z</published>
-    <updated>2017-08-16T07:34:51.063Z</updated>
+    <updated>2018-02-05T12:01:41.268Z</updated>
     
     <content type="html"><![CDATA[<p><a href="lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html">Must know Tips/Tricks in Deep Neural Networks</a></p>
 <p><a href="www.cs.umb.edu/~twang/file/tricks_from_dl.pdf">Tricks from Deep Neural Network</a></p>
