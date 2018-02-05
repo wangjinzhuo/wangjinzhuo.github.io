@@ -5,18 +5,18 @@
   
   <title>Model assistance in deep learning | Jinzhuo Wang</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="In the era of deep neural networks being constantly designed, it is important to enable them assist each other. For example, AlexNet is successful in image classification. GoogleNet is the same. Can t">
+  <meta name="description" content="We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning an">
 <meta name="keywords" content="Deep learning,Model assistance">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Model assistance in deep learning">
 <meta property="og:url" content="http://www.wangjinzhuo.com/2017/08/18/multiple-models/index.html">
 <meta property="og:site_name" content="Jinzhuo Wang">
-<meta property="og:description" content="In the era of deep neural networks being constantly designed, it is important to enable them assist each other. For example, AlexNet is successful in image classification. GoogleNet is the same. Can t">
+<meta property="og:description" content="We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning an">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2017-08-18T09:19:02.986Z">
+<meta property="og:updated_time" content="2018-02-05T11:59:43.843Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Model assistance in deep learning">
-<meta name="twitter:description" content="In the era of deep neural networks being constantly designed, it is important to enable them assist each other. For example, AlexNet is successful in image classification. GoogleNet is the same. Can t">
+<meta name="twitter:description" content="We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning an">
   
   
     <link rel="icon" href="/favicon.png">
@@ -56,7 +56,7 @@
       </nav>
       <nav id="sub-nav">
         
-        <a id="nav-search-btn" class="nav-icon" title="Zoeken"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://www.wangjinzhuo.com"></form>
@@ -88,13 +88,17 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>In the era of deep neural networks being constantly designed, it is important to enable them assist each other.</p>
-<p>For example, AlexNet is successful in image classification. GoogleNet is the same. Can they help each other to obtain a further improvement?</p>
+        <p>We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning and optimization.</p>
+<p>Althougth diverse deep neural networks have been developed, how to efficiently leverage full potential of these models and make use of their collaboration remain challenging and unsolved issues.</p>
+<p>We have submitted a paper to IJCAI-2018 named - Model Assistance with Collaborative Learning - to achieve model assistance in a win-win process.</p>
+<p>The key idea behind collaborative learning is to share mutual knowledge from the involved models in their learning processes to assist each other as additional supervision. We achieve this process with a mutual knowledge base (MKB) which includes an encoder-decoder structure, a metric learning module and a verification part. The encoder transfers arbitrary intermediate feature maps of the involved models to unified embeddings in mutual space, which are prepared to perform additional supervision with metric leanring and verification, as well as sent back to the original networks to keep end-to-end trainable. </p>
+<p>collaborative learning can be applied to any deep neural networks and easily extended to multiple models. Compared with teacher-student framework, our method enjoys bi-directional assistance and needs no requirements of models such as pre-training and ability difference. </p>
+<p>Experimental results on image classification tasks demonstrate our method can efficiently improve the learning ability of all the involved models, with superior performance comapred with strong baselines and relevant approaches.</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://www.wangjinzhuo.com/2017/08/18/multiple-models/" data-id="cj74ft5oo000cv86xgdjbjbj7" class="article-share-link">Delen</a>
+      <a data-url="http://www.wangjinzhuo.com/2017/08/18/multiple-models/" data-id="cjda5zkhp0004v96xnyepxi7d" class="article-share-link">Share</a>
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Deep-learning/">Deep learning</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Model-assistance/">Model assistance</a></li></ul>
@@ -107,7 +111,7 @@
   
   
     <a href="/2017/06/07/cll-mkb/" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Ouder</strong>
+      <strong class="article-nav-caption">Older</strong>
       <div class="article-nav-title">Collaborative learing with knowledge sharing</div>
     </a>
   
@@ -168,7 +172,7 @@
   
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2017 Jinzhuo Wang<br>
+      &copy; 2018 Jinzhuo Wang<br>
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
