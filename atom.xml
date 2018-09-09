@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wangjinzhuo.com/"/>
-  <updated>2018-02-05T12:02:11.945Z</updated>
+  <updated>2018-02-05T12:02:10.000Z</updated>
   <id>http://www.wangjinzhuo.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.wangjinzhuo.com/2017/08/18/multiple-models/"/>
     <id>http://www.wangjinzhuo.com/2017/08/18/multiple-models/</id>
     <published>2017-08-18T09:14:40.000Z</published>
-    <updated>2018-02-05T12:02:11.945Z</updated>
+    <updated>2018-02-05T12:02:10.000Z</updated>
     
     <content type="html"><![CDATA[<p>We are in the era of deep neural networks being designed constantly designed. Most efforts are devoted to hand-crafted engineering of single network, including architecture design, parameter tuning and optimization.</p>
 <p>Althougth diverse deep neural networks have been developed, how to efficiently leverage full potential of these models and make use of their collaboration remain challenging and unsolved issues.</p>
@@ -51,7 +51,7 @@
     <link href="http://www.wangjinzhuo.com/2017/06/07/cll-mkb/"/>
     <id>http://www.wangjinzhuo.com/2017/06/07/cll-mkb/</id>
     <published>2017-06-07T07:09:17.000Z</published>
-    <updated>2017-08-16T03:22:13.230Z</updated>
+    <updated>2017-08-16T03:22:12.000Z</updated>
     
     <content type="html"><![CDATA[<p>Recently arise many successful deep architectures that are carefully designed for tasks in artificial intelligence, computer vision, natural language processing and speech recognition. In such cases, one model (or deep architecture) trained with one task (specific input and output) can learn corresponding knowledge. Different models can learn task-specific knowledge. On the other hand, the target tasks share many relevant properties (such as image classification and semantic segmentation), the learnt knowledge that exists among the model is expected to have something in common. This paper aim at levering such information to achieve model assistance, and consequently improving the performance of involved models.</p>
 <a id="more"></a>
@@ -80,7 +80,7 @@
     <link href="http://www.wangjinzhuo.com/2017/04/07/properties-of-neural-networks/"/>
     <id>http://www.wangjinzhuo.com/2017/04/07/properties-of-neural-networks/</id>
     <published>2017-04-07T06:46:25.000Z</published>
-    <updated>2017-08-09T04:43:00.107Z</updated>
+    <updated>2017-08-09T04:43:00.000Z</updated>
     
     <content type="html"><![CDATA[<p>Intriguing properties of neural networks – <a href="https://arxiv.org/pdf/1312.6199.pdf" target="_blank" rel="external">https://arxiv.org/pdf/1312.6199.pdf</a></p>
 <ol>
@@ -111,7 +111,7 @@
     <link href="http://www.wangjinzhuo.com/2017/02/19/aaai-2017/"/>
     <id>http://www.wangjinzhuo.com/2017/02/19/aaai-2017/</id>
     <published>2017-02-19T13:08:00.000Z</published>
-    <updated>2017-08-15T15:40:25.395Z</updated>
+    <updated>2017-08-15T15:40:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>AAAI 2017 took place in San Francisco and lasted for 5 days.</p>
 <p>First time attending to AAAI, a coverall AI conference which accepts papers of every aspect of AI research.</p>
@@ -136,7 +136,7 @@
     <link href="http://www.wangjinzhuo.com/2016/12/15/nips-2016/"/>
     <id>http://www.wangjinzhuo.com/2016/12/15/nips-2016/</id>
     <published>2016-12-15T02:44:20.000Z</published>
-    <updated>2017-08-09T04:42:43.991Z</updated>
+    <updated>2017-08-09T04:42:42.000Z</updated>
     
     <content type="html"><![CDATA[<p>Glad to attend NIPS 2016 in Barcelona, a beautiful costal city in Spain. It is lucky for a football fan to join a party in Nou Camp.</p>
 <p>There are many famous researchers including LeCun, Schmidhuber and other yound research scientists in DeepMind and OpenAI. They give talks, introduce posts, communicate and share ideas. I like such atmosphere.</p>
@@ -162,7 +162,7 @@
     <link href="http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/"/>
     <id>http://www.wangjinzhuo.com/2016/08/16/tricks-in-dnn/</id>
     <published>2016-08-16T05:55:03.000Z</published>
-    <updated>2018-02-05T12:01:41.268Z</updated>
+    <updated>2018-02-05T12:01:40.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html">Must know Tips/Tricks in Deep Neural Networks</a></p>
 <p><a href="www.cs.umb.edu/~twang/file/tricks_from_dl.pdf">Tricks from Deep Neural Network</a></p>
@@ -189,7 +189,7 @@
     <link href="http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/"/>
     <id>http://www.wangjinzhuo.com/2015/07/21/anomaly-detection-match/</id>
     <published>2015-07-21T05:44:41.000Z</published>
-    <updated>2017-08-09T04:42:36.539Z</updated>
+    <updated>2017-08-09T04:42:36.000Z</updated>
     
     <content type="html"><![CDATA[<p>The finals of Smartcity competition for chinese graduates raised the curtain in Wuhan University, July.</p>
 <p>Our team participated in the task of video anomaly detection. Our algorithm is based on an unsupervised analysis of trajectory features of normal videos, as the number of anomaly videos available is rather small. We first build a mix model composed of normal bases, and calculate the distance of test videos to the learnt bases to make judgement.</p>
@@ -217,7 +217,7 @@
     <link href="http://www.wangjinzhuo.com/2015/04/11/lstm/"/>
     <id>http://www.wangjinzhuo.com/2015/04/11/lstm/</id>
     <published>2015-04-11T13:36:59.000Z</published>
-    <updated>2017-08-16T05:57:57.989Z</updated>
+    <updated>2017-08-16T05:57:56.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Recurrent-Neural-Networks-RNN"><a href="#Recurrent-Neural-Networks-RNN" class="headerlink" title="Recurrent Neural Networks (RNN)"></a>Recurrent Neural Networks (RNN)</h2><p>Human don’t start their thinkning from scratch every second. As you read this essay, you understand each word based on your understanding of previous words. You don’t throw everything away and start thinking from scratch again. Your thoughts have persistence.</p>
 <p>Traditional neural networks can’t do this, and it seems like a major shortcoming. For example, imagine you want to classify what kind of event is happening at every point in a movie. It’s unclear how a traditional neural network could use its reasoning about previous events in the film to inform later ones.</p>
